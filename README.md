@@ -178,10 +178,6 @@ Our implementation aims to achieve:
 - [ARIES Recovery Algorithm](https://cs.stanford.edu/people/chrismre/cs345/rl/aries.pdf) - Mohan et al.
 - [System R Papers](https://people.eecs.berkeley.edu/~brewer/cs262/SystemR.pdf) - Original relational database research
 
-## License
-
-MIT License - see LICENSE file for details.
-
 ## Acknowledgments
 
 This implementation is inspired by decades of database systems research and the comprehensive architectural overview provided by Hellerstein, Stonebraker, and Hamilton. We're standing on the shoulders of giants.
